@@ -1,5 +1,10 @@
 # Monad AgentGuard
 
+> This is the Monad deployment and benchmark of the AgentGuard foundation. It
+> is not the ETHOnline submission repository. See
+> [ethonline-agentguard](https://github.com/0xCaptain888/ethonline-agentguard)
+> for the ETHOnline 2026 Continuity build and its sponsor evidence boundary.
+
 [![CI](https://github.com/0xCaptain888/monad-agentguard/actions/workflows/ci.yml/badge.svg)](https://github.com/0xCaptain888/monad-agentguard/actions/workflows/ci.yml)
 [![Demo](https://img.shields.io/badge/demo-live-36d399)](https://0xcaptain888.github.io/monad-agentguard/)
 [![Network](https://img.shields.io/badge/Monad-Testnet-7dd3fc)](https://testnet.monadexplorer.com/address/0xee84007f8618c2c38Be8C45E8050144EbF00CE4a)
