@@ -47,7 +47,7 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.19",
-    "tsx": "^4.19.4",
-    "typescript": "^5.4.5"
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
   }
 }
